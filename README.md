@@ -1,2 +1,2 @@
-# Unity-git
-latihan git
+# Ini merupakan latihan membuat github
+latihan git :D
